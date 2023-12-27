@@ -1,8 +1,8 @@
-## Welcome to my profile 😁
+## Welcome to my profile :smile:
 
 ## About me:
 
-I'm a game developer :smile:
+I'm a game developer 😁
 
 I really like programming and creating new things, I really admire those who work in the software market.
 game development and I have a passion for this area of ​​programming.
