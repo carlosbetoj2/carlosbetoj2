@@ -1,4 +1,7 @@
-## Welcome to my profile :smile:
+## Hi 👋 Welcome to my profile :smile:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosbetoj2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocarlossouzasilva/)
 
 ## About me:
 
