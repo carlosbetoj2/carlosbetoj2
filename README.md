@@ -27,7 +27,7 @@ I'm a game developer 😁
  [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=carlosbetoj2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/carlosbetoj2)
 
 <!-- Links -->
- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/carlosbetoj2/)
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1021129178831134741)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocarlossouzasilva/)
  
 ## 🔥 Skills
