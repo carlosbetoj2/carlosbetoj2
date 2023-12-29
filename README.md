@@ -33,15 +33,19 @@ I'm a game developer 😁
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
-  <h3>Programming Languages</h3>
+ <h3>Programming Languages</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
- <br>
+
+<div style="flex-basis: 48%;">
+ <h3>Tools</h3>
+  <img align="center" alt="Unity" height="30" width="40" src="https://files.rubixdev.de/logos/unity.svg">
+  <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
