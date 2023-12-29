@@ -10,10 +10,14 @@ I'm a game developer 😁
 I really like programming and creating new things, I really admire those who work in the software market.
 game development and I have a passion for this area of ​​programming.
 
- <div>
-   <a href="https://github.com/carlosbetoj2">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosbetoj2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbetoj2&layout=compact&langs_count=6&theme=tokyonight"/>
+ [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=carlosbetoj2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/carlosbetoj2)
+
+ [![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs0/?username=carlosbetoj2&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/carlosbetoj2)
+
+ <img height="1https://github-readme-stats.vercel.app/api/top-langs0/?username=carlosbetoj2&layout=compact&langs_count=6&theme=tokyonight"/>
+
+ https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24
+
 
 </div>
 <div style="display: inline_block"><br>
