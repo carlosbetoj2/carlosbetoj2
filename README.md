@@ -1,23 +1,35 @@
+<!-- Title -->
 ## Hi 👋 Welcome to my profile :smile:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosbetoj2/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocarlossouzasilva/)
 
-## About me:
-
+<!-- Presentation -->
+## About me
+<p>
 I'm a game developer 😁
 
-I really like programming and creating new things, I really admire those who work in the software market.
-game development and I have a passion for this area of ​​programming.
+  - 🚀 I really like programming and creating new things, I really admire those who work in the game development market and I have a passion for this area of ​​programming.
+    
+  - 🧠 I'm learning Python and doing some projects in Web Languages ​​like Css and JavaScript
+    
+  - 🤝 
+    
+  - 📫 You can contact me at roberto.carlossf2002@gmail.com
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about</summary>
+
+  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+## What I don't know, give me a few days 😁
 
  [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=carlosbetoj2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/carlosbetoj2)
-
- [![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs0/?username=carlosbetoj2&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/carlosbetoj2)
-
- <img height="1https://github-readme-stats.vercel.app/api/top-langs0/?username=carlosbetoj2&layout=compact&langs_count=6&theme=tokyonight"/>
-
- https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24
-
 
 </div>
 <div style="display: inline_block"><br>
