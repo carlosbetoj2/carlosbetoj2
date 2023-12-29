@@ -50,8 +50,8 @@ I'm a game developer 😁
   ### Follow me on other social networks!
  
 <div> 
-  <a href="https://br.pinterest.com/carlosbetoj2/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
   <a href="https://instagram.com/carlosbetoj2_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://br.pinterest.com/carlosbetoj2/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
  
   ![Snake animation](https://github.com/carlosbetoj2/carlosbetoj2/blob/output/github-contribution-grid-snake.svg)
 
